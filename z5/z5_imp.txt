@@ -1,0 +1,25 @@
+
+// kor_zad5_imp.html
+
+<html>
+	<head>
+		<META HTTP-EQUIV="content-type" CONTENT="text/html" CHARSET="utf-8" name="Author" content="£ukasz Korycki"/>
+		<style>
+			@import url("kor_zad5_imp.css");
+		</style>
+	</head> 
+	<body> 
+		<p>
+			Korycki
+			<br>	
+			Napisz program, który zwróci Twój aktualny wiek w C++.
+		</p>
+	</body>
+</html>
+
+// kor_zad5_imp.css
+
+p {
+	color: #0000FF;
+	font-size: 71px;	
+	}

@@ -1,0 +1,23 @@
+
+// kor_zad5_zew.html
+
+<html>
+	<head>
+		<META HTTP-EQUIV="content-type" CONTENT="text/html" CHARSET="utf-8" name="Author" content="£ukasz Korycki"/>
+		<LINK href="kor_zad5_zew.css" rel="stylesheet" type="text/CSS"> 
+	</head> 
+	<body> 
+		<p>
+			Korycki
+			<br>	
+			Napisz program, który zwróci Twój aktualny wiek w C++.
+		</p>
+	</body>
+</html>
+
+// kor_zad5_zew.css
+
+p {
+	color: #800000;
+	font-size: 51px;	
+	}
